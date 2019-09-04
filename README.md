@@ -1,28 +1,28 @@
 # jiaxinui
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目预览
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包组件命令
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+npm run lib
 ```
 
-### Lints and fixes files
+### 登录npm
 ```
-npm run lint
+npm login
+```
+
+### 发布到npm
+```
+npm publish
 ```
 
 ### Customize configuration

@@ -1,0 +1,28 @@
+.DS_Store
+node_modules
+/dist
+# 发布该组件库的时候，下面这几个文件需要忽略
+# examples/
+# packages/
+# public/
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+vue.config.js
+babel.config.js
+*.map
