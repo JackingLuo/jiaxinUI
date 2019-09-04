@@ -25,5 +25,5 @@ npm login
 npm publish
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 友情链接
+https://blog.csdn.net/mlonly/article/details/88635809
